@@ -15,11 +15,11 @@ Explore and categorize sales based on specific filters.
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-### Pivot Table
+## Pivot Table
 
 ![Pivot Table](https://github.com/sumedhkulkarni7/Amazon-Sales-Dashboard-in-Microsoft-Excel-/blob/main/PivotTables.PNG)
 
 
-### Dashboard
+## Dashboard
 
 ![Dashboard](https://github.com/sumedhkulkarni7/Amazon-Sales-Dashboard-in-Microsoft-Excel-/blob/main/Dashboard.PNG)
