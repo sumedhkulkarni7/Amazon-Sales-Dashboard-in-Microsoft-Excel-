@@ -13,7 +13,7 @@ List and analyze total revenue by category and brand.
 Explore and categorize sales based on specific filters.
 
 ## Dataset
-The data for this project is sourced from the Kaggle dataset:
+The data for this project is sourced from the Kaggle dataset: [Amazon Sales Dataset](https://github.com/sumedhkulkarni7/Amazon-Sales-Dashboard-in-Microsoft-Excel-/blob/main/amazon_sales_excel.csv)
 
 ## Pivot Table
 
